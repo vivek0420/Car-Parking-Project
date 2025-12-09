@@ -1,1 +1,1 @@
-“This is my first IoT project with a complete end-to-end implementation.”
+This is my first IoT project with a complete end-to-end implementation.
